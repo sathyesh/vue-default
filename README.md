@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-# hello-world
+## vue-default
+
+This is a default Vue JS project to check security threats in core and its dependencies
+
+## npm audit results
+
+After running npm audit command, found 0  vulnerabilities in 18890 scanned packages.
 
 ## Project setup
 ```
@@ -24,5 +29,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
-# vue-default
->>>>>>> ce5eedf1fea13cbdabda645e31c2c22401a36e1d
+
