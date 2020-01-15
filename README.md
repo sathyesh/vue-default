@@ -4,7 +4,7 @@ This is a default Vue JS project to check security threats in core and its depen
 
 ## npm audit results
 
-After running npm audit command, found 0  vulnerabilities in 18890 scanned packages.
+After running npm audit command, found 0  vulnerabilities in 24460 scanned packages.
 
 ## Project setup
 ```
