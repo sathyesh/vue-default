@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello-world
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-default
+>>>>>>> ce5eedf1fea13cbdabda645e31c2c22401a36e1d
