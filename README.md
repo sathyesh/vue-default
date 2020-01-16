@@ -1,5 +1,7 @@
 ## vue-default
 
+[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/vue-default/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sathyesh/vue-default?targetFile=package.json)
+
 This is a default Vue JS project to check security threats in core and its dependencies
 
 ## npm audit results
